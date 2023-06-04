@@ -21,12 +21,12 @@ Esto es una solución de la [Fylo landing page with two column layout challenge 
 
 ### Screenshot
 
-![]()
+![](https://github.com/GarciaRojasP/fylo-landing-page/assets/119550417/64f10b4a-6999-4f44-a67f-cc87db8303af)
 
 ### Links
 
-- Ver código: [Fylo landing page]()
-- Ver demo: [Fylo landing page]()
+- Ver código: [Fylo landing page](https://github.com/GarciaRojasP/fylo-landing-page)
+- Ver demo: [Fylo landing page](https://fylo-landing-page-rust.vercel.app/)
 
 ## Mi proceso
 
